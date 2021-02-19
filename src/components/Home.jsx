@@ -1,8 +1,8 @@
 import React from "react";
 
 function Home() {
-	var imageName = require('https://skafosbiz.wixsite.com/mysite')
-<img src={imageName} />
+	var imageName = require('https://skafosbiz.wixsite.com/mysite');
+
   return (
     <div className="home">
       <div class="container">
