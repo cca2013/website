@@ -15,7 +15,10 @@ function Home() {
 			 
               alt=""
             />
-		
+		<a href="http://vresto.eu">
+         <img alt="Qries" src="http://anastasiadiskonstantinos.appspot.com/images/shop.jpg"
+         width=150" height="70">
+      </a>
           </div>
           <div class="col-lg-5">
             <h1 class="font-weight-light">Home</h1>
