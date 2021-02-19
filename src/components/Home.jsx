@@ -24,6 +24,12 @@ function Home() {
 			</a>
 		
           </div>
+		   <div class="col-lg-6">
+            <h1 class="font-weight-light">Home</h1>
+            <p>
+              Konstantinos P. Anastasiadis web page using react, nodejs
+            </p>
+          </div>
 		  <div class="row align-items-center my-5">
 		
 		<a href="http://skafosbiz.wixsite.com/eshop">
@@ -34,12 +40,7 @@ function Home() {
 		 <h2>Κατασκευή on line ψηφιακών καταστημάτων, (E-SHOPs)</h2>
           </div>
 		  
-          <div class="col-lg-5">
-            <h1 class="font-weight-light">Home</h1>
-            <p>
-              Konstantinos P. Anastasiadis web page using react, nodejs
-            </p>
-          </div>
+         
         </div>
       </div>
     </div>
