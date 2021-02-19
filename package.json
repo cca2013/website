@@ -11,6 +11,9 @@
     "react-router-dom": "5.2.0",
     "react-scripts": "3.3.1"
   },
+  "engines": {
+  "node": ">=14.4.0"
+},
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -32,8 +35,4 @@
       "last 1 safari version"
     ]
   }
-
-
-
 }
- 
