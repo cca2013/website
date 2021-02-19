@@ -8,8 +8,9 @@ function Contact() {
           <div class="col-lg-7">
             <img
               class="img-fluid rounded mb-4 mb-lg-0"
-              src="http://placehold.it/900x400"
+              src="https://studentcomputing.eku.edu/sites/studentcomputing.eku.edu/files/contactus.jpg"
               alt=""
+			  width="450" height="200"
             />
           </div>
           <div class="col-lg-5">
