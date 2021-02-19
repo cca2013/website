@@ -5,11 +5,11 @@ function Home() {
     <div className="home">
       <div class="container">
         <div class="row align-items-center my-5">
-          <div class="col-lg-7">
+          <div class="col-lg-7"><href="https://skafosbiz.wixsite.com/mysite">
             <img
-              class="img-fluid rounded mb-4 mb-lg-0"
+              class="img-fluid rounded mb-4 mb-lg-0" 
               src="https://previews.123rf.com/images/liaarevadze/liaarevadze1706/liaarevadze170600126/81072644-flat-design-of-website-under-construction-web-page-building-process-site-form-layout-of-web-developm.jpg"
-			  
+			  </href>
               alt=""
             />
           </div>
