@@ -6,7 +6,7 @@ function Footer() {
       <footer class="py-5 bg-dark fixed-bottom">
         <div class="container">
           <p class="m-0 text-center text-white">
-            Copyright &copy; Konstantinos p. Anastasiadis 2021
+            Copyright &copy; Konstantinos P. Anastasiadis 2021
           </p>
         </div>
       </footer>
