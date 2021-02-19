@@ -8,14 +8,14 @@ function Home() {
       <div class="container">
         <div class="row align-items-center my-5">
           <div class="col-lg-7">
-		  <Link to='https://skafosbiz.wixsite.com/mysite'>
+		  
             <img
               class="img-fluid rounded mb-4 mb-lg-0" 
-              src={imageName}
+              src="https://previews.123rf.com/images/liaarevadze/liaarevadze1706/liaarevadze170600126/81072644-flat-design-of-website-under-construction-web-page-building-process-site-form-layout-of-web-developm.jpg"
 			 
               alt=""
             />
-			</Link>
+		
           </div>
           <div class="col-lg-5">
             <h1 class="font-weight-light">Home</h1>
