@@ -8,15 +8,16 @@ function Home() {
       <div class="container">
         <div class="row align-items-center my-5">
           <div class="col-lg-7">
-		  
+		  <a href="http://vresto.eu">
             <img
               class="img-fluid rounded mb-4 mb-lg-0" 
               src="https://previews.123rf.com/images/liaarevadze/liaarevadze1706/liaarevadze170600126/81072644-flat-design-of-website-under-construction-web-page-building-process-site-form-layout-of-web-developm.jpg"
 			 
               alt=""
-            />
+            /></a>
 		<a href="http://vresto.eu">
-         <img alt="Qries" src="http://anastasiadiskonstantinos.appspot.com/images/cpa7.jpg"
+         <img  class="img-fluid rounded mb-4 mb-lg-0" 
+		 alt="K.P.Anastasiadis-vresto.eu" src="http://anastasiadiskonstantinos.appspot.com/images/cpa7.jpg"
          width="450" height="170" />
       </a>
           </div>
