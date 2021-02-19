@@ -15,14 +15,14 @@ function Home() {
 			 
               alt=""
             /></a></div>
-			<div>
+		<div class="row align-items-left my-5">
 			<right>
 		<a href="http://vresto.eu">
          <img  class="img-fluid rounded mb-4 mb-lg-0" 
 		 alt="K.P.Anastasiadis-vresto.eu" src="http://anastasiadiskonstantinos.appspot.com/images/cpa7.jpg"
          width="450" height="170" />
 			</a>
-			</right
+			</right>
           </div>
           <div class="col-lg-5">
             <h1 class="font-weight-light">Home</h1>
