@@ -12,7 +12,7 @@ function Home() {
             <img
               class="img-fluid rounded mb-4 mb-lg-0" 
               src="https://previews.123rf.com/images/liaarevadze/liaarevadze1706/liaarevadze170600126/81072644-flat-design-of-website-under-construction-web-page-building-process-site-form-layout-of-web-developm.jpg"
-			 
+			 width="250" height="100" 
               alt=""
             /></a></div>
 			
@@ -21,7 +21,7 @@ function Home() {
 		<a href="http://skafosbiz.wixsite.com/eshop">
          <img  class="img-fluid rounded mb-4 mb-lg-0" 
 		 alt="K.P.Anastasiadis-eshops" src="https://dmm.gr/wp-content/uploads/2019/11/topimg-home1.png"
-         width="250" height="100" />
+         width="200" height="100" />
 			</a>
 		 <h3>Κατασκευή on line ψηφιακών καταστημάτων, (E-SHOPs)</h3>
           </div>
