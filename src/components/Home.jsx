@@ -17,7 +17,7 @@ function Home() {
             />
 		<a href="http://vresto.eu">
          <img alt="Qries" src="http://anastasiadiskonstantinos.appspot.com/images/shop.jpg"
-         width="150" height="70">
+         width="150" height="70" />
       </a>
           </div>
           <div class="col-lg-5">
