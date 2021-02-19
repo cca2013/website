@@ -24,6 +24,16 @@ function Home() {
 			</a>
 		
           </div>
+		  <div class="row align-items-center my-5">
+		
+		<a href="http://skafosbiz.wixsite.com/eshop">
+         <img  class="img-fluid rounded mb-4 mb-lg-0" 
+		 alt="K.P.Anastasiadis-vresto.eu" src="https://dmm.gr/wp-content/uploads/2019/11/topimg-home1.png"
+         width="450" height="170" />
+			</a>
+		
+          </div>
+		  
           <div class="col-lg-5">
             <h1 class="font-weight-light">Home</h1>
             <p>
