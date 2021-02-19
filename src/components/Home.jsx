@@ -24,7 +24,7 @@ function Home() {
 			</a>
 		
           </div>
-		  <div class="row align-items-right my-7">
+		  <div class="row align-items-center my-8">
 		
 		<a href="http://skafosbiz.wixsite.com/eshop">
          <img  class="img-fluid rounded mb-4 mb-lg-0" 
