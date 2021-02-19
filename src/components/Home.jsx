@@ -15,6 +15,18 @@ function Home() {
 			 
               alt=""
             /></a></div>
+			
+			<div class="row align-items-center my-8">
+		
+		<a href="http://skafosbiz.wixsite.com/eshop">
+         <img  class="img-fluid rounded mb-4 mb-lg-0" 
+		 alt="K.P.Anastasiadis-eshops" src="https://dmm.gr/wp-content/uploads/2019/11/topimg-home1.png"
+         width="450" height="100" />
+			</a>
+		 <h2>Κατασκευή on line ψηφιακών καταστημάτων, (E-SHOPs)</h2>
+          </div>
+		  
+			
 		<div class="row align-items-center my-5">
 		
 		<a href="http://vresto.eu">
@@ -28,15 +40,6 @@ function Home() {
               Konstantinos P. Anastasiadis web page using react, nodejs
             </p>
        
-          </div>
-		  <div class="row align-items-center my-8">
-		
-		<a href="http://skafosbiz.wixsite.com/eshop">
-         <img  class="img-fluid rounded mb-4 mb-lg-0" 
-		 alt="K.P.Anastasiadis-eshops" src="https://dmm.gr/wp-content/uploads/2019/11/topimg-home1.png"
-         width="450" height="100" />
-			</a>
-		 <h2>Κατασκευή on line ψηφιακών καταστημάτων, (E-SHOPs)</h2>
           </div>
 		  
 		  
