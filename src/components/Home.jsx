@@ -23,7 +23,7 @@ function Home() {
 		 alt="K.P.Anastasiadis-eshops" src="https://dmm.gr/wp-content/uploads/2019/11/topimg-home1.png"
          width="250" height="100" />
 			</a>
-		 <h2>Κατασκευή on line<br> ψηφιακών καταστημάτων,<br> (E-SHOPs)</h2>
+		 <h2>Κατασκευή on line<br> ψηφιακών καταστημάτων</>,<br> (E-SHOPs)</></h2>
           </div>
 		  
 			
