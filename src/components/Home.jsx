@@ -22,7 +22,12 @@ function Home() {
 		 alt="K.P.Anastasiadis-vresto.eu" src="http://anastasiadiskonstantinos.appspot.com/images/cpa7.jpg"
          width="450" height="170" />
 			</a>
-		
+		 <div class="col-lg-6">
+            <h1 class="font-weight-light">Home</h1>
+            <p>
+              Konstantinos P. Anastasiadis web page using react, nodejs
+            </p>
+          </div>
           </div>
 		  <div class="row align-items-center my-8">
 		
@@ -33,12 +38,7 @@ function Home() {
 			</a>
 		 <h2>Κατασκευή on line ψηφιακών καταστημάτων, (E-SHOPs)</h2>
           </div>
-		   <div class="col-lg-6">
-            <h1 class="font-weight-light">Home</h1>
-            <p>
-              Konstantinos P. Anastasiadis web page using react, nodejs
-            </p>
-          </div>
+		  
 		  
 		  
          
