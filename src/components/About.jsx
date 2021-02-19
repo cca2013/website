@@ -14,14 +14,38 @@ function About() {
             /></a>
           </div>
           <div class="col-lg-5">
-            <h1 class="font-weight-light">About</h1>
+            <h1 class="font-weight-light">Ιστοσελίδα</h1>
             <p>
              Ιστοσελίδα για ανακαινίσεις κατοικιών. Δημιουργήθηκε τον Δεκέμβριο του 2020. 
             </p>
           </div>
         </div>
+		
+		
+		  <div class="row align-items-center my-5">
+          <div class="col-lg-7">
+		    <a href="https://ikeforologia.gr">
+            <img
+              class="img-fluid rounded mb-4 mb-lg-0"
+              src="https://www.securenetworksitc.com/wp-content/uploads/2016/09/IT-Support-For-CAPA-Accounting-Firm-San-Diego-CA.jpg"
+              alt=""
+            /></a>
+          </div>
+          <div class="col-lg-5">
+            <h1 class="font-weight-light">Ιστοσελίδα</h1>
+            <p>
+             Ιστοσελίδα για Λογιστική φοροτεχνική εταιρεία. Δημιουργήθηκε τον Ιανουάριο του 2021. 
+			 Περιλαμβάνει blog με ανάρτηση άρθρων και δημόσιου σχολιασμού τους. 
+            </p>
+          </div>
+        </div>
+		
+		
       </div>
     </div>
+	
+	
+	
   );
 }
 
