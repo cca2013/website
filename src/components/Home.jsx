@@ -8,7 +8,7 @@ function Home() {
           <div class="col-lg-7">
             <img
               class="img-fluid rounded mb-4 mb-lg-0"
-              src="https://sc01.alicdn.com/kf/HTB1mbNIHFXXXXcuXpXXq6xXFXXXR/222394528/HTB1mbNIHFXXXXcuXpXXq6xXFXXXR.jpg"
+              src="http://anastasiadiskonstantinos.appspot.com/images/bicycle.jpg"
 			  
               alt=""
             />
