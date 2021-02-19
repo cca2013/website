@@ -12,7 +12,7 @@ function Home() {
             <p>
               Konstantinos P. Anastasiadis web page using react, nodejs
             </p>
-       
+         <h2>ΙΣΤΟΣΕΛΙΔΕΣ </h2>
 		  <a href="https://skafosbiz.wixsite.com/mysite">
             <img
               class="img-fluid rounded mb-4 mb-lg-0" 
