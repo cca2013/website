@@ -28,10 +28,10 @@ function Home() {
 		
 		<a href="http://skafosbiz.wixsite.com/eshop">
          <img  class="img-fluid rounded mb-4 mb-lg-0" 
-		 alt="K.P.Anastasiadis-vresto.eu" src="https://dmm.gr/wp-content/uploads/2019/11/topimg-home1.png"
-         width="450" height="170" />
+		 alt="K.P.Anastasiadis-eshops" src="https://dmm.gr/wp-content/uploads/2019/11/topimg-home1.png"
+         width="450" height="100" />
 			</a>
-		
+		 <h2>Κατασκευή on line ψηφιακών καταστημάτων, (E-SHOPs)</h2>
           </div>
 		  
           <div class="col-lg-5">
