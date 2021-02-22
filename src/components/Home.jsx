@@ -29,13 +29,14 @@ function Home() {
 			</div>
 
 			<div class="row align-items-center my-8">
-		
+		<h2>E-SHOPs</h2>
 		<a href="http://skafosbiz.wixsite.com/eshop">
+		
          <img  class="img-fluid rounded mb-4 mb-lg-0" 
 		 alt="K.P.Anastasiadis-eshops" src="https://static.wixstatic.com/media/6f5d17_cc6f156710bd4479a49aba7f435b92da~mv2.jpeg/v1/fill/w_469,h_1084,al_c,q_85/6f5d17_cc6f156710bd4479a49aba7f435b92da~mv2.webp"
-         width="300" height="80" />
+         width="300" height="60" />
 			</a>
-		 <h2>E-SHOPs</h2>
+		 
           </div>
 		  
          
