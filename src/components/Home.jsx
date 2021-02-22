@@ -20,7 +20,7 @@ function Home() {
 			 width="430" height="240" 
               alt=""
             /></a>
-			
+			<p></p><p></p>
 			<a href="http://vresto.eu">
          <img  class="img-fluid rounded mb-4 mb-lg-0" 
 		 alt="K.P.Anastasiadis-vresto.eu" src="http://anastasiadiskonstantinos.appspot.com/images/cpa7.jpg"
