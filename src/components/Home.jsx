@@ -13,7 +13,7 @@ function Home() {
               Konstantinos P. Anastasiadis web page using react, nodejs
             </p>
          <h2>ΙΣΤΟΣΕΛΙΔΕΣ </h2>
-		  <a href="https://skafosbiz.wixsite.com/mysite">
+		  <a href="https://static.wixstatic.com/media/ea71bb_370144e721bc43c289bfb35fed3376d1~mv2_d_4500_2124_s_2.jpg/v1/fill/w_1224,h_534,al_b,q_85,usm_0.66_1.00_0.01/ea71bb_370144e721bc43c289bfb35fed3376d1~mv2_d_4500_2124_s_2.webp">
             <img
               class="img-fluid rounded mb-4 mb-lg-0" 
               src="https://previews.123rf.com/images/liaarevadze/liaarevadze1706/liaarevadze170600126/81072644-flat-design-of-website-under-construction-web-page-building-process-site-form-layout-of-web-developm.jpg"

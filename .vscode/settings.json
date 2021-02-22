@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/b7052d59-77a8-409d-9942-9f0a2712aec9/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/tremblemylove",
+    "appService.deploySubpath": "."
+}
