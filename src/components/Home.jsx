@@ -30,16 +30,28 @@ function Home() {
 			</a>
 			</div>
 
-			<div class="row align-items-center my-8">
-		
-		<a href="http://skafosbiz.wixsite.com/eshop">
+			<div >
 		<h2>E-SHOPs</h2>
-         <img  class="img-fluid rounded mb-4 mb-lg-0" 
+		<a href="http://skafosbiz.wixsite.com/eshop">
+		
+         <img 
 		 alt="K.P.Anastasiadis-eshops" src="https://static.wixstatic.com/media/6f5d17_cc6f156710bd4479a49aba7f435b92da~mv2.jpeg/v1/fill/w_469,h_1084,al_c,q_85/6f5d17_cc6f156710bd4479a49aba7f435b92da~mv2.webp"
-         width="300" height="50" />
+         width="150" height="250" />
 			</a>
 		 
-          </div>
+		
+
+		  
+		  <a href="http://konstantinos.company.site">	
+         <img 
+		 alt="K.P.Anastasiadis-eshops" src="https://d2j6dbq0eux0bg.cloudfront.net/startersite/images/53402010/1616526217507.jpg"
+         width="300" height="250" />
+			</a>
+		  </div>
+		 
+		
+		 
+        
 		  
          
         </div>
