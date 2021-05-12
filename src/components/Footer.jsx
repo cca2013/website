@@ -3,10 +3,10 @@ import React from "react";
 function Footer() {
   return (
     <div className="footer">
-      <footer class="py-5 bg-dark fixed-bottom">
+      <footer class="py-2 bg-dark fixed-bottom">
         <div class="container">
           <p class="m-0 text-center text-white">
-            Copyright &copy; Konstantinos P. Anastasiadis 2021
+            &copy; Konstantinos P. Anastasiadis 2021
           </p>
         </div>
       </footer>

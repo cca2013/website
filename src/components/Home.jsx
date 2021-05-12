@@ -7,7 +7,7 @@ function Home() {
     <div className="home">
       <div class="container">
         <div class="row align-items-center my-5">
-          <div class="col-lg-7">
+          <div class="col-lg-8">
 		   <h1 class="font-weight-light">Home</h1>
             <p>
               Konstantinos P. Anastasiadis web page using react, nodejs

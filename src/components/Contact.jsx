@@ -16,7 +16,7 @@ function Contact() {
           <div class="col-lg-5">
             <h1 class="font-weight-light">Επικοινωνία</h1>
             <p>
-             κ.Κώστας</p>
+            Konstantinos</p>
 			 <p>
 			 Τηλέφωνο : 6984343706
 			 
