@@ -1,4 +1,14 @@
 import React from "react";
+var styles = {
+	color:'black',
+	backgroundColor:'lightgrey',
+	fontFamily : 'italics,sans-serif',
+	fontWeight:'bold'
+};
+var styles1 = {
+	color:'blue'
+	
+};
 
 function Home() {
 	
@@ -37,6 +47,19 @@ function Home() {
          width="430" height="260" />
 			
 			</td>
+			<div style={styles}>
+			<td>
+			<h4><p >Κάθε ιστο σελίδα είναι και μια ιστορία ζωής για εμας. Κάθε ιστορία και μια επιτυχία. </p>
+			<p>Μια επιτυχία δική μας , είναι και <span >μια επιτυχία δική σας!</span> </p>
+			<p>Βασιζόμαστε στην καλή συνεργασία και στην αμοιβαία εμπιστοσύνη. </p>
+			<p style={styles1}>------------------H εμπειρία μας στην διάθεση σας------------</p>
+			<p>Every web page is a life story for us. Every story ends up as a success story. </p>
+			<p>Our success story , is your success story! </p>
+			<p>We depend upon our goog cooperation and mutual confidence. </p>
+			<p style={styles1}>------------------Our experience at your service----------------  </p></h4>
+		
+			</td>
+				</div>
 			</tr>
 			 </table>
 			
@@ -58,6 +81,7 @@ function Home() {
 		 alt="vresto.eu" src="https://cdn.pixabay.com/photo/2016/12/20/22/32/holiday-shopping-1921658__340.jpg"
          width="430" height="260" />
 			</td>
+			
 			</tr>
 			</table>
 
