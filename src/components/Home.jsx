@@ -49,14 +49,14 @@ function Home() {
 			</td>
 			<div style={styles}>
 			<td>
-			<h4><p >Κάθε ιστο σελίδα είναι και μια ιστορία ζωής για εμας. Κάθε ιστορία και μια επιτυχία. </p>
+			<h6><p >Κάθε ιστο σελίδα είναι και μια ιστορία ζωής για εμας. Κάθε ιστορία και μια επιτυχία. </p>
 			<p>Μια επιτυχία δική μας , είναι και <span >μια επιτυχία δική σας!</span> </p>
 			<p>Βασιζόμαστε στην καλή συνεργασία και στην αμοιβαία εμπιστοσύνη. </p>
 			<p style={styles1}>------------------H εμπειρία μας στην διάθεση σας------------</p>
 			<p>Every web page is a life story for us. Every story ends up as a success story. </p>
 			<p>Our success story , is your success story! </p>
 			<p>We depend upon our fine cooperation and mutual confidence. </p>
-			<p style={styles1}>------------------Our experience at your service----------------  </p></h4>
+			<p style={styles1}>------------------Our experience at your service----------------  </p></h6>
 		
 			</td>
 				</div>
