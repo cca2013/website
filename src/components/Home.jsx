@@ -55,7 +55,7 @@ function Home() {
 			<p style={styles1}>------------------H εμπειρία μας στην διάθεση σας------------</p>
 			<p>Every web page is a life story for us. Every story ends up as a success story. </p>
 			<p>Our success story , is your success story! </p>
-			<p>We depend upon our goog cooperation and mutual confidence. </p>
+			<p>We depend upon our fine cooperation and mutual confidence. </p>
 			<p style={styles1}>------------------Our experience at your service----------------  </p></h4>
 		
 			</td>
