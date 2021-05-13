@@ -24,7 +24,7 @@ function Home() {
             </p>
 			
 			<h6><p >Κάθε ιστο σελίδα είναι και μια ιστορία ζωής για εμας. Κάθε ιστορία και μια επιτυχία. </p>
-			<p>Μια επιτυχία δική μας , είναι και <span >μια επιτυχία δική σας!</span> </p></h6>
+			<p>Κάθε επιτυχία δική μας , θα είναι και <span >μια επιτυχία δική σας, αν μας εμπιστευθείτε!</span> </p></h6>
 			
 		
 			
@@ -114,7 +114,7 @@ function Home() {
 		 <h2>Joomla, Prestashop, Wix, Shopify, Ecwid</h2>
 			 <img  class="img-fluid rounded mb-4 mb-lg-0" 
 		 alt="vresto.eu" src="https://thumbs.dreamstime.com/b/top-view-mobile-phone-sunglasses-cup-coffee-pen-notebook-plant-calculator-wooden-background-written-upsell-154833948.jpg"
-         width="430" height="260" />
+         width="430" height="250" />
 		</td>
 		</tr>
 		</table>
