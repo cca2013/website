@@ -7,7 +7,7 @@ function Navigation(props) {
       <nav class="navbar navbar-expand navbar-dark bg-dark">
         <div class="container">
           <Link class="navbar-brand" to="/">
-				Alpa K.  Web Masters
+				Alpa K. 
           </Link>
           <div>
             <ul class="navbar-nav ml-auto">
