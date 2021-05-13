@@ -22,6 +22,12 @@ function Home() {
             <p>
               Alpha K. web page using nodejs,react
             </p>
+			
+			<h6><p >Κάθε ιστο σελίδα είναι και μια ιστορία ζωής για εμας. Κάθε ιστορία και μια επιτυχία. </p>
+			<p>Μια επιτυχία δική μας , είναι και <span >μια επιτυχία δική σας!</span> </p></h6>
+			
+		
+			
         </div>
 		</div>
 		</div>
@@ -39,6 +45,7 @@ function Home() {
               alt=""
             /></a>
 			</td>
+			<td width='200'></td>
 			<td>
 			
 			  <h2>Java, Nodejs, React </h2>
@@ -48,17 +55,7 @@ function Home() {
 			
 			</td>
 			<div style={styles}>
-			<td>
-			<h6><p >Κάθε ιστο σελίδα είναι και μια ιστορία ζωής για εμας. Κάθε ιστορία και μια επιτυχία. </p>
-			<p>Μια επιτυχία δική μας , είναι και <span >μια επιτυχία δική σας!</span> </p>
-			<p>Βασιζόμαστε στην καλή συνεργασία και στην αμοιβαία εμπιστοσύνη. </p>
-			<p style={styles1}>------------------H εμπειρία μας στην διάθεση σας------------</p>
-			<p>Every web page is a life story for us. Every story ends up as a success story. </p>
-			<p>Our success story , is your success story! </p>
-			<p>We depend upon our fine cooperation and mutual confidence. </p>
-			<p style={styles1}>------------------Our experience at your service----------------  </p></h6>
-		
-			</td>
+			
 				</div>
 			</tr>
 			 </table>
@@ -75,6 +72,7 @@ function Home() {
          width="430" height="260" />
 			</a>
 			</td>
+			<td width='200'></td>
 			<td>
 			  <h2>Business Android apps </h2>
 			 <img  class="img-fluid rounded mb-4 mb-lg-0" 
@@ -111,6 +109,7 @@ function Home() {
          width="300" height="250" />
 			</a>
 		</td>
+		<td width='200'></td>
 		<td>
 		 <h2>Joomla, Prestashop, Wix, Shopify, Ecwid</h2>
 			 <img  class="img-fluid rounded mb-4 mb-lg-0" 
