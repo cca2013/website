@@ -5,6 +5,13 @@ var styles = {
 	fontFamily : 'italics,sans-serif',
 	fontWeight:'bold'
 };
+var style={
+
+border: 'solid'
+
+};
+
+
 var styles1 = {
 	color:'blue'
 	
@@ -23,15 +30,14 @@ function Home() {
               Alpha K. web page using nodejs,react
             </p>
 			
-			<h6><p >Κάθε ιστο σελίδα είναι και μια ιστορία ζωής για εμας. Κάθε ιστορία και μια επιτυχία. </p>
-			<p>Κάθε επιτυχία δική μας , θα είναι και <span >μια επιτυχία δική σας, αν μας εμπιστευθείτε!</span> </p></h6>
+			<h6><p style = {style}>Κάθε ιστο σελίδα είναι και μια ιστορία ζωής για εμας. Κάθε ιστορία και μια επιτυχία. 
+			Κάθε επιτυχία δική μας , θα είναι και <span >μια επιτυχία δική σας, αν μας εμπιστευθείτε!</span> </p></h6>
 			
 		
 			
         </div>
 		</div>
 		</div>
-		
 		
 		 <table>
 		 <tr>
