@@ -71,7 +71,7 @@ function Home() {
 			<table>
 			<tr>
 			<td>
-			<a href="https://konstantinos.ro">
+			<a href="konstantinos.ro">
 			  <h2>BLOGS</h2>
          <img  class="img-fluid rounded mb-4 mb-lg-0" 
 		 alt="vresto.eu" src="http://anastasiadiskonstantinos.appspot.com/images/cpa7.jpg"
